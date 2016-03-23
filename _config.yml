@@ -1,0 +1,86 @@
+#url: http://economicsofmalaria.com/
+# baseurl: /joebrew.github.io/
+
+# Site settings
+title: Goldenberg Lab
+email: benmbrew@gmail.com
+description: "Using Machine Learing to Solve Problems in Computational Biology"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: ff6600
+  secondary: 0099ff  
+  secondary-dark: 333
+
+# Areas of research
+areas_of_research:
+- name: Supply-side 
+  pic: 1_resized
+  subtitle: "Describing foreign firms' current engagement in malaria control activities, assessing motivation, and gauging interest and willingness to increase investment in malaria control"
+
+- name: Demand-side
+  pic: 2_resized
+  subtitle: "Measuring community and individual knowledge, attitudes and practices regarding malaria control through discrete choice experimentation"
+
+- name: Impact-evaluation
+  pic: 3_resized
+  subtitle: "Quantifying the economic impact of malaria control activities carried out by foreign firms"
+
+# Team names, titles and social links
+people:
+- name: Joe Brew
+  pic: 1_resized
+  position: Doctoral fellow
+  social:
+    - title: facebook
+      url: https://www.facebook.com/josephbrew
+    - title: github
+      url: http://github.com/joebrew   
+    - title: linkedin
+      url: https://www.linkedin.com/in/joe-brew-1061a33a
+    - title: twitter
+      url: https://twitter.com/bcndata
+
+- name: Elisa Sicuri
+  pic: 2_resized
+  position: Supervisor
+  social:
+    - title: linkedin
+      url: https://es.linkedin.com/in/elisa-sicuri-02821217
+    - title: arrows
+      url: http://www.imperial.ac.uk/people/e.sicuri
+    - title: facebook
+      url: https://www.facebook.com/elisa.sicuri
+
+
+- name: Laia Cireira Crivillé
+  pic: 4_resized
+  position: MALTEM researcher
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/laia-cirera-i-crivillé-53476316
+    - title: arrows
+      url: https://www.upf.edu/cres/en/membres/colaboradors/cirera_laia.html
+    - title: facebook
+      url: https://www.facebook.com/laia.cirera
+
+- name: Menno Pradhan
+  pic: 3_resized
+  position: Co-supervisor
+  social:
+    - title: linkedin
+      url: https://nl.linkedin.com/in/menno-pradhan-74506b54
+    - title: arrows
+      url: http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
+
+
+
+
+
+address:
+  - line: Rosselló, 132, 7º
+  - line: 08036 Barcelona, Spain
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goldenberg Lab</title>
+    <description>Using Machine Learing to Solve Problems in Computational Biology</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 23 Mar 2016 13:57:15 -0400</pubDate>
+    <lastBuildDate>Wed, 23 Mar 2016 13:57:15 -0400</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Data micro-capture</title>
+        <description>
+</description>
+        <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
+        <link>/2016/01/20/pws/</link>
+        <guid isPermaLink="true">/2016/01/20/pws/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Health and wealth atlas</title>
+        <description>
+</description>
+        <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
+        <link>/2016/01/20/atlas/</link>
+        <guid isPermaLink="true">/2016/01/20/atlas/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>FDI and CSR</title>
+        <description>
+</description>
+        <pubDate>Tue, 05 Jan 2016 00:00:00 -0500</pubDate>
+        <link>/2016/01/05/fdi/</link>
+        <guid isPermaLink="true">/2016/01/05/fdi/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
