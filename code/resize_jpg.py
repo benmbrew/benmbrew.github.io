@@ -3,21 +3,21 @@
 import PIL
 from PIL import Image
 import os
-os.chdir('/home/joebrew/Documents/joebrew.github.io/img/team')
+os.chdir('/home/benbrew/Documents/benmbrew.github.io/img/team')
 
 basewidth = 150
 
-for number in range(4)[1:]:
-    img = Image.open(str(number) + '.jpg')
+for number in range(9)[1:]:
+    img = Image.open(str(number) + '.png')
     wpercent = (basewidth / float(img.size[0]))
     hsize = int((float(img.size[1]) * float(wpercent)))
     img = img.resize((basewidth, hsize), PIL.Image.ANTIALIAS)
-    img.save(str(number) + '_resized.jpg')
+    img.save(str(number) + '_resized.png')
 
 
 
-img = Image.open('3.jpg')
+img = Image.open('3.png')
 wpercent = (basewidth / float(img.size[0]))
 hsize = int((float(img.size[1]) * float(wpercent)))
 img = img.resize((basewidth, hsize), PIL.Image.ANTIALIAS)
-img.save('3_resized.jpg')
+img.save('3_resized.png')

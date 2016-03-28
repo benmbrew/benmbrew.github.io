@@ -8,8 +8,8 @@ description: "Using Machine Learing to Solve Problems in Computational Biology"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: ff6600
-  secondary: 0099ff  
+  primary: black
+  secondary: white 
   secondary-dark: 333
 
 people:
@@ -24,7 +24,6 @@ people:
     - title: twitter
       url: https://twitter.com/bcndata
 
-  people:
 - name: Aziz Mezilini
   pic: 2_resized
   position: Phd Researcher
@@ -36,7 +35,6 @@ people:
     - title: twitter
       url: #https://twitter.com/bcndata
 
-
 - name: Ladislav Rampasek
   pic: 3_resized
   position: Phd Researcher
@@ -47,7 +45,6 @@ people:
       url: #http://www.imperial.ac.uk/people/e.sicuri
     - title: twitter
       url: #https://www.facebook.com/elisa.sicuri
-
 
 - name: Lauren Erdman
   pic: 4_resized
@@ -94,7 +91,7 @@ people:
       url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
 
 - name: Ben Brew
-  pic: ben_resized
+  pic: 8_resized
   position: Programmer/Analyst
   social:
     - title: linkedin
