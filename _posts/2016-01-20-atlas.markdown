@@ -1,14 +1,14 @@
 ---
-title: Health and wealth atlas
-subtitle: The digital atlas of health and wealth indicators of Manhiça
-link: https://github.com/joebrew/tgh/blob/master/protocols/atlas/atlas.pdf
+title: Combining Biological Data
+subtitle: Similarity Network Fusion 
+link: link here
 layout: default
 modal-id: 2
 date: 2016-01-20
-img: 6.JPG
-thumbnail: 6.JPG
+img: snf.JPG
+thumbnail: snf.JPG
 alt: image-alt
 project-date: January 2016
-description: The creation of a digital real-time health and wealth atlas of the district of Manhiça, Mozambique, for use by public health authorities and researchers.
+description: Each biological measurement provides a different insight into the mechanisms and causes behind diseases and biological processes. Our Similarity Network Fusion (SNF) approach combines multiple biological datasets by representing each  data type as a similarity network over samples and then fusing these networks into one global network using non-linear cross diffusion process. (Wang et al, Nature Methods 2014). The code and data are here
 
 ---

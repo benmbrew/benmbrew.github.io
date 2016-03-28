@@ -1,14 +1,13 @@
 ---
-title: Data micro-capture
-subtitle: A small-scale project to capture granular meteorological and entemological data
+title: Disease Subtyping
+subtitle: Graph Based Clustering
 layout: default
-link: "https://github.com/joebrew/tgh/blob/master/protocols/weather_capture/report/weather_capture.pdf"
+link: "link here"
 modal-id: 1
 date: 2016-01-20
-img: 2.JPG
-thumbnail: 2.JPG
+img: heat.JPG
+thumbnail: heat.JPG
 alt: image-alt
-project-date: January 2016
-description: A project aimed at capturing weather and mosquito data at a more granular scale than ever before carried out in subsaharan Africa (or any low-resource setting), for use by public health authorities and researchers.  
-
+project-date: date here
+description: Majority of the diseases are very heterogeneous. To move us closer to precision medicine, we have to identify more homogeneous subtypes with the corresponding genetic signatures. We have developed a graph-based clustering and feature ranking method that is robust to noise measurement and large numbers of irrelevant features, helping us to identify more clinically relevant subtypes.
 ---

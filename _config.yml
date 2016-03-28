@@ -8,21 +8,11 @@ description: "Using Machine Learing to Solve Problems in Computational Biology"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: black
-  secondary: white 
+  primary: 2980B9
+  secondary: BFC9CA 
   secondary-dark: 333
 
 people:
-- name: Anna Goldenberg
-  pic: anna_resized
-  position: PI
-  social:
-    - title: github
-      url: http://github.com/joebrew   
-    - title: linkedin
-      url: https://www.linkedin.com/in/joe-brew-1061a33a
-    - title: twitter
-      url: https://twitter.com/bcndata
 
 - name: Aziz Mezilini
   pic: 2_resized

@@ -5,12 +5,12 @@
     <description>Using Machine Learing to Solve Problems in Computational Biology</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 28 Mar 2016 15:00:04 -0400</pubDate>
-    <lastBuildDate>Mon, 28 Mar 2016 15:00:04 -0400</lastBuildDate>
+    <pubDate>Mon, 28 Mar 2016 16:49:58 -0400</pubDate>
+    <lastBuildDate>Mon, 28 Mar 2016 16:49:58 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Data micro-capture</title>
+        <title>Disease Subtyping</title>
         <description>
 </description>
         <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
@@ -21,7 +21,7 @@
       </item>
     
       <item>
-        <title>Health and wealth atlas</title>
+        <title>Combining Biological Data</title>
         <description>
 </description>
         <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
@@ -32,7 +32,7 @@
       </item>
     
       <item>
-        <title>FDI and CSR</title>
+        <title>Drug Response Prediction</title>
         <description>
 </description>
         <pubDate>Tue, 05 Jan 2016 00:00:00 -0500</pubDate>
