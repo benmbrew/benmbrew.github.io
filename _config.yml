@@ -13,12 +13,10 @@ color:
   secondary-dark: 333
 
 people:
-- name: Joe Brew
-  pic: 1_resized
-  position: Doctoral fellow
+- name: Anna Goldenberg
+  pic: anna_resized
+  position: PI
   social:
-    - title: facebook
-      url: https://www.facebook.com/josephbrew
     - title: github
       url: http://github.com/joebrew   
     - title: linkedin
@@ -26,45 +24,89 @@ people:
     - title: twitter
       url: https://twitter.com/bcndata
 
-- name: Elisa Sicuri
+  people:
+- name: Aziz Mezilini
   pic: 2_resized
-  position: Supervisor
+  position: Phd Researcher
   social:
     - title: linkedin
-      url: https://es.linkedin.com/in/elisa-sicuri-02821217
-    - title: arrows
-      url: http://www.imperial.ac.uk/people/e.sicuri
-    - title: facebook
-      url: https://www.facebook.com/elisa.sicuri
+      url: #http://github.com/joebrew   
+    - title: github
+      url: #https://www.linkedin.com/in/joe-brew-1061a33a
+    - title: twitter
+      url: #https://twitter.com/bcndata
 
 
-- name: Laia Cireira Crivillé
-  pic: 4_resized
-  position: MALTEM researcher
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/laia-cirera-i-crivillé-53476316
-    - title: arrows
-      url: https://www.upf.edu/cres/en/membres/colaboradors/cirera_laia.html
-    - title: facebook
-      url: https://www.facebook.com/laia.cirera
-
-- name: Menno Pradhan
+- name: Ladislav Rampasek
   pic: 3_resized
-  position: Co-supervisor
+  position: Phd Researcher
   social:
     - title: linkedin
-      url: https://nl.linkedin.com/in/menno-pradhan-74506b54
-    - title: arrows
-      url: http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
+      url: #https://es.linkedin.com/in/elisa-sicuri-02821217
+    - title: github
+      url: #http://www.imperial.ac.uk/people/e.sicuri
+    - title: twitter
+      url: #https://www.facebook.com/elisa.sicuri
 
 
+- name: Lauren Erdman
+  pic: 4_resized
+  position: Graduate Researcher
+  social:
+    - title: linkedin
+      url: #https://www.linkedin.com/in/laia-cirera-i-crivillé-53476316
+    - title: github
+      url: #https://www.upf.edu/cres/en/membres/colaboradors/cirera_laia.html
+    - title: twitter
+      url: #https://www.facebook.com/laia.cirera
 
+- name: Daniel Hirdu
+  pic: 5_resized
+  position: Graduate Researcher
+  social:
+    - title: linkedin
+      url: #https://nl.linkedin.com/in/menno-pradhan-74506b54
+    - title: github
+      url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
+    - title: twitter
+      url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
 
+- name: Tal Friedman
+  pic: 6_resized
+  position: Undergraduate Researcher
+  social:
+    - title: linkedin
+      url: #https://nl.linkedin.com/in/menno-pradhan-74506b54
+    - title: github
+      url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
+    - title: twitter
+      url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
+
+- name: Ekansh Sharma
+  pic: 7_resized
+  position: Undergraduate Researcher
+  social:
+    - title: linkedin
+      url: #https://nl.linkedin.com/in/menno-pradhan-74506b54
+    - title: github
+      url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
+    - title: twitter
+      url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
+
+- name: Ben Brew
+  pic: ben_resized
+  position: Programmer/Analyst
+  social:
+    - title: linkedin
+      url: #https://nl.linkedin.com/in/menno-pradhan-74506b54
+    - title: github
+      url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
+    - title: twitter
+      url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
 
 address:
-  - line: Rosselló, 132, 7º
-  - line: 08036 Barcelona, Spain
+  - line: Peter Gilgan Centre for Research and Learning
+  - line: 686 Bay St, Toronto, ON M5G 0A4
 
 # Build settings
 markdown: kramdown
