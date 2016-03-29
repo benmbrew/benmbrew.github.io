@@ -5,8 +5,8 @@ layout: default
 link: "link here"
 modal-id: 1
 date: 2016-01-20
-img: heat.JPG
-thumbnail: heat.JPG
+img: heatmap.JPG
+thumbnail: heatmap.JPG
 alt: image-alt
 project-date: date here
 description: Majority of the diseases are very heterogeneous. To move us closer to precision medicine, we have to identify more homogeneous subtypes with the corresponding genetic signatures. We have developed a graph-based clustering and feature ranking method that is robust to noise measurement and large numbers of irrelevant features, helping us to identify more clinically relevant subtypes.

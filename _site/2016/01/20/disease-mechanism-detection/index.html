@@ -4,10 +4,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Disease Subtyping</title>
+    <title>Disease Mechanism Detection</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="Using Machine Learing to Solve Problems in Computational Biology">
-    <link rel="canonical" href="/2016/01/20/pws/">
+    <link rel="canonical" href="/2016/01/20/disease-mechanism-detection/">
 
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
@@ -57,7 +57,7 @@
                         <a class="page-scroll" href="#about">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Papers</a>
+                        <a class="page-scroll" href="#portfolio">Current Research</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#team">Team</a>
@@ -181,6 +181,51 @@
                 </div>
             </div>
             <div class="row">
+            
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/mirna.JPG" class="img-responsive img-centered" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Active miRNA Selection</h4>
+                        <p class="text-muted"></p>
+                    </div>
+                </div>
+            
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/subpheno.JPG" class="img-responsive img-centered" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Genetic Subphenotyping</h4>
+                        <p class="text-muted"></p>
+                    </div>
+                </div>
+            
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/disease_mech.JPG" class="img-responsive img-centered" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Disease Mechanism Detection</h4>
+                        <p class="text-muted">Identifying genes associated with complex human diseases using facor-graph based models.</p>
+                    </div>
+                </div>
             
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
@@ -590,6 +635,132 @@ Snowbird Learning Workshop, 2008
     </footer>
      <!-- Portfolio Modals -->
  
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Active miRNA Selection</h2>
+                            <hr class="star-primary">
+                            <img src="img/portfolio/mirna.JPG" class="img-responsive img-centered" alt="image-alt">
+                            <p>We developed a method for inferring functional miRNAs from gene expression and miRNA-to-gene network data only, which provides a guide to a few active miRNAs and is not susceptible to noise in miRNA data.</p>
+                            <ul class="list-inline item-details">
+                                <li>Details:
+                                    <strong><a href=link here>link here</a>
+                                </strong>
+                                </li>
+<!--                                 <li>Client:
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li> -->
+<!--                                 <li>Date:
+                                    <strong><a href="http://startbootstrap.com">date here</a>
+                                    </strong>
+                                </li> -->
+<!--                                 <li>Service:
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li> -->
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Genetic Subphenotyping</h2>
+                            <hr class="star-primary">
+                            <img src="img/portfolio/subpheno.JPG" class="img-responsive img-centered" alt="image-alt">
+                            <p>If we suppose that each disease is actually a collection of multiple diseases (easily imaginable for spectrum disorders), then identifying genetic variants that predispose one to this disease, should be done simultaneously with the identification of the disease subtypes. We have extended an epistatic model to identify disease subtypes simultaneously with marginal and epistatic variants. (Colak et al, Bioinformatics, 2015)</p>
+                            <ul class="list-inline item-details">
+                                <li>Details:
+                                    <strong><a href=link here>link here</a>
+                                </strong>
+                                </li>
+<!--                                 <li>Client:
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li> -->
+<!--                                 <li>Date:
+                                    <strong><a href="http://startbootstrap.com">date here</a>
+                                    </strong>
+                                </li> -->
+<!--                                 <li>Service:
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li> -->
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Disease Mechanism Detection</h2>
+                            <hr class="star-primary">
+                            <img src="img/portfolio/disease_mech.JPG" class="img-responsive img-centered" alt="image-alt">
+                            <p>dentifying genes associated with complex human diseases is one of the main challenges of human genetics and computational medicine. To increase the power of identifying genes associated with diseases and to account for other potential sources of protein function aberrations, we proposed a novel factor-graph based model, where much of the biological knowledge is incorporated through factors and priors. Our extensive simulations show that our method has superior sensitivity and precision compared to variant aggregating and differential expression methods.</p>
+                            <ul class="list-inline item-details">
+                                <li>Details:
+                                    <strong><a href=link here>link here</a>
+                                </strong>
+                                </li>
+<!--                                 <li>Client:
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li> -->
+<!--                                 <li>Date:
+                                    <strong><a href="http://startbootstrap.com">date here</a>
+                                    </strong>
+                                </li> -->
+<!--                                 <li>Service:
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li> -->
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">

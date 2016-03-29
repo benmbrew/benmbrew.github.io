@@ -5,8 +5,8 @@ link: link here
 layout: default
 modal-id: 2
 date: 2016-01-20
-img: snf.JPG
-thumbnail: snf.JPG
+img: snf_graph.JPG
+thumbnail: snf_graph.JPG
 alt: image-alt
 project-date: January 2016
 description: Each biological measurement provides a different insight into the mechanisms and causes behind diseases and biological processes. Our Similarity Network Fusion (SNF) approach combines multiple biological datasets by representing each  data type as a similarity network over samples and then fusing these networks into one global network using non-linear cross diffusion process. (Wang et al, Nature Methods 2014). The code and data are here

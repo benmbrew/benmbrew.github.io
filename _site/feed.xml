@@ -5,17 +5,50 @@
     <description>Using Machine Learing to Solve Problems in Computational Biology</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 28 Mar 2016 18:25:35 -0400</pubDate>
-    <lastBuildDate>Mon, 28 Mar 2016 18:25:35 -0400</lastBuildDate>
+    <pubDate>Tue, 29 Mar 2016 12:10:27 -0400</pubDate>
+    <lastBuildDate>Tue, 29 Mar 2016 12:10:27 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Active miRNA Selection</title>
+        <description>
+</description>
+        <pubDate>Thu, 04 Feb 2016 00:00:00 -0500</pubDate>
+        <link>/2016/02/04/active-mirna-selection/</link>
+        <guid isPermaLink="true">/2016/02/04/active-mirna-selection/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Genetic Subphenotyping</title>
+        <description>
+</description>
+        <pubDate>Tue, 02 Feb 2016 00:00:00 -0500</pubDate>
+        <link>/2016/02/02/genetic-subphenotyping/</link>
+        <guid isPermaLink="true">/2016/02/02/genetic-subphenotyping/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Disease Mechanism Detection</title>
+        <description>
+</description>
+        <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
+        <link>/2016/01/20/disease-mechanism-detection/</link>
+        <guid isPermaLink="true">/2016/01/20/disease-mechanism-detection/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Disease Subtyping</title>
         <description>
 </description>
         <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
-        <link>/2016/01/20/pws/</link>
-        <guid isPermaLink="true">/2016/01/20/pws/</guid>
+        <link>/2016/01/20/heatmap/</link>
+        <guid isPermaLink="true">/2016/01/20/heatmap/</guid>
         
         
       </item>
@@ -25,8 +58,8 @@
         <description>
 </description>
         <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
-        <link>/2016/01/20/atlas/</link>
-        <guid isPermaLink="true">/2016/01/20/atlas/</guid>
+        <link>/2016/01/20/snf/</link>
+        <guid isPermaLink="true">/2016/01/20/snf/</guid>
         
         
       </item>
@@ -36,8 +69,8 @@
         <description>
 </description>
         <pubDate>Tue, 05 Jan 2016 00:00:00 -0500</pubDate>
-        <link>/2016/01/05/fdi/</link>
-        <guid isPermaLink="true">/2016/01/05/fdi/</guid>
+        <link>/2016/01/05/drug-prediction/</link>
+        <guid isPermaLink="true">/2016/01/05/drug-prediction/</guid>
         
         
       </item>
