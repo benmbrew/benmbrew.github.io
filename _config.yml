@@ -12,6 +12,19 @@ color:
   secondary: 9A9E9E  
   secondary-dark: 333
 
+main:
+
+- name: Anna Goldenberg
+  pic: 1_anna
+  position: Professor of Machine Learing
+  social:
+    - title: linkedin
+      url: #http://github.com/joebrew   
+    - title: github
+      url: #https://www.linkedin.com/in/joe-brew-1061a33a
+    - title: twitter
+      url: #https://twitter.com/bcndata
+
 people:
 
 - name: Aziz Mezilini
