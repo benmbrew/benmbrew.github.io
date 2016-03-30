@@ -5,9 +5,31 @@
     <description>Using Machine Learing to Solve Problems in Computational Biology</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 29 Mar 2016 16:36:48 -0400</pubDate>
-    <lastBuildDate>Tue, 29 Mar 2016 16:36:48 -0400</lastBuildDate>
+    <pubDate>Wed, 30 Mar 2016 15:40:20 -0400</pubDate>
+    <lastBuildDate>Wed, 30 Mar 2016 15:40:20 -0400</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Similarity Network Fusion</title>
+        <description>
+</description>
+        <pubDate>Fri, 26 Feb 2016 00:00:00 -0500</pubDate>
+        <link>/2016/02/26/snf/</link>
+        <guid isPermaLink="true">/2016/02/26/snf/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Disease Subtyping</title>
+        <description>
+</description>
+        <pubDate>Thu, 25 Feb 2016 00:00:00 -0500</pubDate>
+        <link>/2016/02/25/heatmap/</link>
+        <guid isPermaLink="true">/2016/02/25/heatmap/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Active miRNA Selection</title>
@@ -38,28 +60,6 @@
         <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
         <link>/2016/01/20/disease-mechanism-detection/</link>
         <guid isPermaLink="true">/2016/01/20/disease-mechanism-detection/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Disease Subtyping</title>
-        <description>
-</description>
-        <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
-        <link>/2016/01/20/heatmap/</link>
-        <guid isPermaLink="true">/2016/01/20/heatmap/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Combining Biological Data</title>
-        <description>
-</description>
-        <pubDate>Wed, 20 Jan 2016 00:00:00 -0500</pubDate>
-        <link>/2016/01/20/snf/</link>
-        <guid isPermaLink="true">/2016/01/20/snf/</guid>
         
         
       </item>

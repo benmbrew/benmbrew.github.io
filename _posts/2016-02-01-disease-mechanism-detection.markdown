@@ -1,9 +1,9 @@
 ---
 title: Disease Mechanism Detection
-subtitle: Identifying genes associated with complex human diseases using facor-graph based models.
+subtitle: 
 layout: default
 link: "link here"
-modal-id: 4
+modal-id: 5
 date: 2016-01-20
 img: disease_mech.JPG
 thumbnail: disease_mech.JPG

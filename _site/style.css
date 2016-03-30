@@ -332,6 +332,7 @@ section {
 }
 
 section h2.section-heading {
+    background-image: center
     margin-top: 0;
     margin-bottom: 15px;
     font-size: 40px;
@@ -859,10 +860,12 @@ ul.social-buttons li a:active {
 
 img::selection {
     background: 0 0;
+
 }
 
 img::-moz-selection {
     background: 0 0;
+
 }
 
 body {

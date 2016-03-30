@@ -1,10 +1,10 @@
 ---
 title: Disease Subtyping
-subtitle: Graph Based Clustering
+subtitle: 
 layout: default
 link: "link here"
-modal-id: 1
-date: 2016-01-20
+modal-id: 2
+date: 2016-02-25
 img: heatmap.JPG
 thumbnail: heatmap.JPG
 alt: image-alt

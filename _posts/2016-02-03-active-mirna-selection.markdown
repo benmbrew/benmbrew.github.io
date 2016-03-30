@@ -3,7 +3,7 @@ title: Active miRNA Selection
 subtitle: 
 layout: default
 link: "link here"
-modal-id: 6
+modal-id: 3
 date: 2016-02-04
 img: mirna.JPG
 thumbnail: mirna.JPG

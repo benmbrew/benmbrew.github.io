@@ -3,7 +3,7 @@ title: Genetic Subphenotyping
 subtitle: 
 layout: default
 link: "link here"
-modal-id: 5
+modal-id: 4
 date: 2016-02-02
 img: subpheno.JPG
 thumbnail: subpheno.JPG
