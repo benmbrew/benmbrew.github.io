@@ -27,6 +27,18 @@ main:
 
 people:
 
+
+- name: Anna Goldenberg
+  pic: 1_resized
+  position: Scientist at SickKids Assistant Professor at U of T
+  social:
+    - title: linkedin
+      url: #http://github.com/joebrew   
+    - title: github
+      url: #https://www.linkedin.com/in/joe-brew-1061a33a
+    - title: twitter
+      url: #https://twitter.com/bcndata
+
 - name: Aziz Mezilini
   pic: 2_resized
   position: Phd Researcher
@@ -71,6 +83,29 @@ people:
     - title: twitter
       url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
 
+- name: Shems Saleh
+  pic: 10_resized
+  position: Graduate Researcher
+  social:
+    - title: linkedin
+      url: #https://nl.linkedin.com/in/menno-pradhan-74506b54
+    - title: github
+      url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
+    - title: twitter
+      url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
+
+- name: Ben Brew
+  pic: 8_resized
+  position: Programmer/Analyst
+  social:
+    - title: linkedin
+      url: #https://nl.linkedin.com/in/menno-pradhan-74506b54
+    - title: github
+      url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
+    - title: twitter
+      url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
+
+
 - name: Tal Friedman
   pic: 6_resized
   position: Undergraduate Researcher
@@ -93,9 +128,9 @@ people:
     - title: twitter
       url: #http://www.feweb.vu.nl/en/departments-and-institutes/development-economics/staff/m-pradhan/index.aspx
 
-- name: Ben Brew
-  pic: 8_resized
-  position: Programmer/Analyst
+- name: Dustin
+  pic: 9_resized
+  position: Undergraduate Researcher
   social:
     - title: linkedin
       url: #https://nl.linkedin.com/in/menno-pradhan-74506b54

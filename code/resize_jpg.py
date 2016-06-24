@@ -5,9 +5,9 @@ from PIL import Image
 import os
 os.chdir('/home/benbrew/Documents/benmbrew.github.io/img/team')
 
-basewidth = 150
+basewidth = 180
 
-for number in range(9)[1:]:
+for number in range(11)[1:]:
     img = Image.open(str(number) + '.png')
     wpercent = (basewidth / float(img.size[0]))
     hsize = int((float(img.size[1]) * float(wpercent)))
