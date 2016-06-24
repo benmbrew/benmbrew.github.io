@@ -50,8 +50,7 @@ h1,
 h2,
 h3,
 h4,
-h5,
-h6 {
+{
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
@@ -278,6 +277,7 @@ header {
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
+    margin-bottom: 2.5cm;
 }
 
 header .intro-text .intro-lead-in {
@@ -325,14 +325,15 @@ section {
 }
 
 section h2.section-heading {
+	margin:0px;
     margin-top: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 0cm;
     font-size: 40px;
 }
 
 section h3.section-subheading {
-	margin-top: 0px;
-	margin-bottom: 0px;
+	margin-top: 0cm;
+	margin-bottom: 0cm;
     margin: 15px;
     text-transform: none;
     font-size: 20px;
@@ -340,36 +341,27 @@ section h3.section-subheading {
 }
 
 section h4.section-subheading {
-	margin-top: 0px;
-	margin-bottom: 0px;
-    margin-bottom: 75px;
+	margin-top: 1cm;
+	margin: 2cm;
+	margin-bottom: 0cm;
     text-transform: none;
-    margin-bottom: 8px;
     font-size: 20px;
     font-weight: 400;
 }
 
-section h5.section-subheading {
-    margin-bottom: 75px;
-    text-transform: none;
-    margin-bottom: 8px;
-    font-size: 20px;
-    font-weight: 400;
-}
 
 #current, #box{
-	margin-top: 0px;
-	margin-bottom: 0px;
+	margin-top: 0cm;
+	margin-bottom: 0cm;
 	display: block;
-    margin: 30px;
+    margin: 65px;
     float:left; 
     display:inline; 
-    width: 60%;
+    width: 50%;
     font-size: 14px;
     font-weight: 400;
 
 }
-
 
 
 
