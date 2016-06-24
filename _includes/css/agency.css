@@ -325,20 +325,53 @@ section {
 }
 
 section h2.section-heading {
-    background-image: center
-    margin-top: 0;
-    margin-bottom: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     font-size: 40px;
 }
 
 section h3.section-subheading {
-    margin-bottom: 75px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+    margin: 15px;
     text-transform: none;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 16px;
-    font-style: italic;
+    font-size: 20px;
     font-weight: 400;
 }
+
+section h4.section-subheading {
+	margin-top: 0px;
+	margin-bottom: 0px;
+    margin-bottom: 75px;
+    text-transform: none;
+    margin-bottom: 8px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+section h5.section-subheading {
+    margin-bottom: 75px;
+    text-transform: none;
+    margin-bottom: 8px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#current, #box{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	display: block;
+    margin: 30px;
+    float:left; 
+    display:inline; 
+    width: 60%;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+
+
 
 @media(min-width:768px) {
     section {

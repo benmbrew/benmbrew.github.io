@@ -12,18 +12,6 @@ color:
   secondary: 9A9E9E  
   secondary-dark: 333
 
-main:
-
-- name: Anna Goldenberg
-  pic: 1_anna
-  position: Professor of Machine Learing
-  social:
-    - title: linkedin
-      url: #http://github.com/joebrew   
-    - title: github
-      url: #https://www.linkedin.com/in/joe-brew-1061a33a
-    - title: twitter
-      url: #https://twitter.com/bcndata
 
 people:
 
@@ -108,7 +96,7 @@ people:
 
 - name: Tal Friedman
   pic: 6_resized
-  position: Undergraduate Researcher
+  position: Summer Researcher
   social:
     - title: linkedin
       url: #https://nl.linkedin.com/in/menno-pradhan-74506b54
@@ -119,7 +107,7 @@ people:
 
 - name: Ekansh Sharma
   pic: 7_resized
-  position: Undergraduate Researcher
+  position: Summer Researcher
   social:
     - title: linkedin
       url: #https://nl.linkedin.com/in/menno-pradhan-74506b54
@@ -130,7 +118,7 @@ people:
 
 - name: Dustin
   pic: 9_resized
-  position: Undergraduate Researcher
+  position: Summer Researcher
   social:
     - title: linkedin
       url: #https://nl.linkedin.com/in/menno-pradhan-74506b54
