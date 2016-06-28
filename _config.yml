@@ -8,8 +8,8 @@ description: "Using Machine Learing to Solve Problems in Computational Biology"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2980B9
-  secondary: 9A9E9E  
+  primary: 008000
+  secondary: 008000
   secondary-dark: 333
 
 

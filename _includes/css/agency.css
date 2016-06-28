@@ -363,6 +363,35 @@ section h4.section-subheading {
 
 }
 
+#res {
+    margin-top: 1cm;
+    margin: 1cm;
+    margin-bottom: 0cm;
+    text-transform: none;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#abs {
+    margin-top: 1cm;
+    margin: 1cm;
+    margin-bottom: 0cm;
+    text-transform: none;
+    font-size: 20px;
+    font-weight: 400;
+
+    }
+
+#team {
+    margin-top: 1cm;
+    margin: 1cm;
+    margin-bottom: 1cm;
+    text-transform: none;
+    font-size: 20px;
+    font-weight: 400;
+
+    }
+
 
 
 @media(min-width:768px) {
