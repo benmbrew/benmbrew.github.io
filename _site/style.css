@@ -432,7 +432,6 @@ section h4.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba({{ site.color.primary | hex_to_rgb | join: ',' }}, .9);
     background: rgba(0,128,0, .9);
 }
 
@@ -448,7 +447,7 @@ section h4.section-subheading {
     margin-top: -12px;
     text-align: center;
     font-size: 20px;
-    color: #fff;
+    color: #000;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
