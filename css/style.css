@@ -529,6 +529,7 @@
 
 			.wrapper.style3 p {
 				font-size: 1em;
+
 			}
 
 		.wrapper.style4 {
@@ -769,6 +770,7 @@ margin: 0em auto 1em auto;
 		padding: 4em 0 2em 0;
 		text-align: center;
 		color: white;
+        background: black;
 	}
 
 		#footer hr {
