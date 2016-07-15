@@ -72,6 +72,8 @@
 
 		.row > * {
 			float: left;
+            margin-top: 2cm;
+             margin-bottom: 2cm;
 		}
 
 		.row:after {
@@ -100,6 +102,8 @@
 			.row {
 				/* margin-left: -(gutters) */
 				margin-left: -40px;
+                margin-top: 2cm;
+                margin-bottom: 2cm;
 			}
 
 		/* Flush */
