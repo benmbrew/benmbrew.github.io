@@ -81,6 +81,28 @@
 	}
 
 
+	h8 {
+		color: inherit;
+        font-size: 1.2em;
+        text-align: left;
+		font-weight: 400;
+        display: block;
+        margin-left: 100px;
+        
+	}
+
+
+	h8 a{
+		color: inherit;
+        font-size: 1.2em;
+        text-align: left;
+		font-weight: 400;
+        display: block;
+        margin-left: 300px;
+        
+	}
+
+
    h7 a{
 			color: inherit;
 			text-decoration: none;
@@ -561,6 +583,12 @@
 .wrapper.style4 .container {
     padding-left: 0em;
     padding-right: 2em;
+}
+
+.wrapper.style4 .container1 {
+    padding-left: 0em;
+    padding-right: 2em;
+    margin-top: 75px;
 }
 
 .wrapper.style4 .text {
