@@ -238,8 +238,11 @@
 
 /* Image */
 
+
 	.image {
 		position: relative;
+        height: auto;
+        
 	}
 
 		.image.fit {
