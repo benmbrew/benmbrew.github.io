@@ -212,9 +212,5 @@
 		}
 
 		#banner span, #banner p {
-			font-size: 1.1em;
-		}
-
-		#banner span {
-			padding: 1em 0em;
+			display: none;
 		}
