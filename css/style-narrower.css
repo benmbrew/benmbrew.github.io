@@ -36,6 +36,16 @@
 		font-weight: 600;
 	}
 
+
+ .wrapper.style1 {
+		background-size: contain;
+	}
+ .wrapper.style1 #banner {
+		margin-top: -50px;
+        margin-bottom: -300px;
+        padding: 0;
+	}
+
 	.wrapper.style2 {
 		background: #f2f2f2;
 		text-align: center;
@@ -199,7 +209,6 @@
 		padding: 6em 0em 3em 0em;
 		text-align: center;
 		text-transform: uppercase;
-		color: #FFF;
 	}
 
 		#banner .container {
