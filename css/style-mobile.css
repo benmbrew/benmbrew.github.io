@@ -18,6 +18,16 @@
 		padding: 4em 0em 2em 0em;
 	}
 
+    .wrapper.style1 {
+		background-size: contain;
+	}
+
+    .wrapper.style1 #banner {
+		margin-top: -50px;
+        margin-bottom: -300px;
+        padding: 0;
+	}
+
 		.wrapper.style2 {
 			padding-bottom: 5em;
 		}
@@ -30,11 +40,17 @@
 			width: 70%;
 		}
 
+        .wrapper.style7 .container {
+			padding: 20px;
+            margin: 5px auto;
+		}
+
 /* Lists */
 
 	ul.icons li a {
 		font-size: 1.6em;
 	}
+
 
 /* Main */
 
