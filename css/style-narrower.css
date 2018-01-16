@@ -88,6 +88,16 @@
 			width: 30%;
 		}
 
+
+.wrapper.style6 .container {
+		padding-left: 1em;
+		padding-right: 1em;
+		}
+
+.wrapper.style6 .container img {
+		max-width: 300px;
+		}
+
 /* Header */
 
 	#header {
